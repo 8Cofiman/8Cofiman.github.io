@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bb02927.css",
+    "main.js": "/static/js/main.b5a37379.js",
+    "static/media/gmovik.png": "/static/media/gmovik.ffb5ca3ebe2ab77c1b0b.png",
+    "static/media/readManga.png": "/static/media/readManga.0751ae4e2969f2686811.png",
+    "static/media/avatar2.png": "/static/media/avatar2.52a481ed80781171f50a.png",
+    "static/media/kanban1.jpg": "/static/media/kanban1.01f31e49082ab937146e.jpg",
+    "static/media/fleex.jpg": "/static/media/fleex.627ae911521557bad5a0.jpg",
+    "static/media/woodtech.jpg": "/static/media/woodtech.01f12e3f7274a2ba105b.jpg",
+    "static/media/sharq.jpg": "/static/media/sharq.87c7a8e1a5d822d590a2.jpg",
+    "static/media/collab.jpg": "/static/media/collab.3478378dda76cfa1db86.jpg",
+    "static/media/translater.jpg": "/static/media/translater.81890ca6f4780c5f9777.jpg",
+    "static/media/testing.jpg": "/static/media/testing.2572d8219142f2070763.jpg",
+    "static/media/homeFin.jpg": "/static/media/homeFin.d5c3fbb29a8abcf437b3.jpg",
+    "static/media/kanban2.jpg": "/static/media/kanban2.6c486c47ce3041b13c1b.jpg",
+    "static/media/icons8-react.gif": "/static/media/icons8-react.4b4a9e4ca6986a3409c7.gif",
+    "static/media/icons8-html.gif": "/static/media/icons8-html.63b4872db75859b09034.gif",
+    "static/media/toggle2.svg": "/static/media/toggle2.6ac868e2f77dffeebe67.svg",
+    "static/media/toggle.svg": "/static/media/toggle.5c9b06f01bf5b2754b2e.svg",
+    "static/media/icons8-visual-studio.svg": "/static/media/icons8-visual-studio.9c4a484be233d80dd10d4f2730276265.svg",
+    "static/media/link.svg": "/static/media/link.07573e381ba7dabcf56f8552fcbb84e2.svg",
+    "static/media/vk2.svg": "/static/media/vk2.046f2e1094bbc4e4c8dd6438ff3a6568.svg",
+    "static/media/git2.svg": "/static/media/git2.12129ef09f41936c31314a3e10e6c1f0.svg",
+    "static/media/icons8-c-sharp-logo.svg": "/static/media/icons8-c-sharp-logo.6a36066073346e3f69830363120bcbd5.svg",
+    "static/media/tg2.svg": "/static/media/tg2.1ce4f73c782e59e1e253e219f4170492.svg",
+    "index.html": "/index.html",
+    "static/media/icons8-visual-studio-code-2019.svg": "/static/media/icons8-visual-studio-code-2019.c95ccce217b9216b765737214d743d02.svg",
+    "main.7bb02927.css.map": "/static/css/main.7bb02927.css.map",
+    "main.b5a37379.js.map": "/static/js/main.b5a37379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb02927.css",
+    "static/js/main.b5a37379.js"
+  ]
+}
